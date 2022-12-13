@@ -1,0 +1,20 @@
+{
+  "name": "roact17-examples",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
